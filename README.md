@@ -34,4 +34,4 @@ Currently paused while I focus on infrastructure and IT operations development.
 
 Alongside my professional role, I bring long-term personal insight into healthcare technology through lived experience with Type 1 Diabetes, which has shaped an interest in digital health systems, data reliability, and the practical impact of technology on real users.
 
-I value clear documentation, calm problem-solving, and steady technical progression over hype.
+I value clear documentation, calm problem-solving, and steady technical progression.
